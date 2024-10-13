@@ -5,7 +5,7 @@ Jenkins CI/CD Pipeline - SonarQube, Docker, Github Webhooks on AWS | Resume Proj
 
 Create 3 t3.large machines for each docker, sonarqube, jenkins follow the steps of the video.
 
-
+Watch Docker Problems text for any errors/issues.
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
